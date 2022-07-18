@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "satefullwidget2",
+            "cwd": "satefullwidget2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "satefullwidget2 (profile mode)",
+            "cwd": "satefullwidget2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "satefullwidget2 (release mode)",
+            "cwd": "satefullwidget2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "statelesswiget1",
+            "cwd": "statelesswiget1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "statelesswiget1 (profile mode)",
+            "cwd": "statelesswiget1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "statelesswiget1 (release mode)",
+            "cwd": "statelesswiget1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
